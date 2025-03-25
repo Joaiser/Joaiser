@@ -36,7 +36,7 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 - [LinkedIn](https://www.linkedin.com/in/aitor-vicent-2534392b7/)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaiser&show_icons=true&count_private=true&theme=radical)
 
 ---
 
