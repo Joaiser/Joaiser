@@ -8,19 +8,19 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 - **Herramientas**: GitHub, Git, Docker
 
 ## 🚀 Proyectos Destacados:
-### 1. [Carpeta de Proyectos React](enlace_a_tu_repositorio)
+### 1. [Carpeta de Proyectos React](https://github.com/Joaiser/Proyectos-React)
    - Una colección de proyectos que he ido creando para mejorar mis habilidades en React.
    
-### 2. [Ecomerce-basico](enlace_a_tu_repositorio)
-   - Un proyecto de e-commerce básico donde implementé el flujo de compra y carrito.
+### 2. [Ecomerce-basico](https://github.com/Joaiser/Ecomerce-basico)
+   - Un proyecto de e-commerce básico donde implementé el flujo de compra y carrito. Fue el TFG que hice para el grado.
 
-### 3. [Statics-works](enlace_a_tu_repositorio)
-   - Un proyecto realizado durante el colegio para practicar conceptos fundamentales de programación.
+### 3. [Statics-works](https://github.com/Joaiser/statics-works)
+   - Un proyecto realizado durante el colegio para practicar conceptos fundamentales del diseño de programación.
 
-### 4. [Auto-group-promotion](enlace_a_tu_repositorio)
+### 4. [Auto-group-promotion](https://github.com/Joaiser/auto-group-promotion)
    - Módulo para Prestashop que gestiona promociones automáticas por grupos de clientes.
 
-### 5. [PromotionPrestaFun](enlace_a_tu_repositorio)
+### 5. [PromotionPrestaFun](https://github.com/Joaiser/PromotionPrestaFun)
    - Un módulo que complementa "Auto-group-promotion" para hacer promociones más personalizadas.
 
 ### 6. [Prestashop-product-reservations](https://github.com/Joaiser/prestashop-product-reservations)
