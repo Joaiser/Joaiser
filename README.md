@@ -40,4 +40,4 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 
 ---
 
-**P.D.** En la foto de mi perfil tengo 16 años, jajaja. ¡Pronto actualizaré la foto! 😅
+
