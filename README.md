@@ -23,7 +23,7 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 ### 5. [PromotionPrestaFun](enlace_a_tu_repositorio)
    - Un módulo que complementa "Auto-group-promotion" para hacer promociones más personalizadas.
 
-### 6. [Prestashop-product-reservations]([enlace_a_tu_repositorio](https://github.com/Joaiser/prestashop-product-reservations))
+### 6. [Prestashop-product-reservations](https://github.com/Joaiser/prestashop-product-reservations)
    - Módulo para Prestashop que permite gestionar las reservas de productos y notificar a los clientes.
 
 ## 💼 Habilidades:
