@@ -3,7 +3,7 @@
 Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mejorar cada día para convertirte en senior. Se que aun me queda por aprender, por ello me esfuerzo en cada proyecto, tanto personal como laboral!
 ## 🌱 Tecnologías que uso:
 - **Frontend**: React, Next.js, Prestashop
-- **Backend**: PHP (en Prestashop), Express
+- **Backend**: PHP (Prestashop), Node.js (Express, MongoDB), SSR con Next.js (API Routes + Server Components) y Astro (endpoints y server-side rendering).
 - **Otros**: HTML, CSS, JavaScript
 - **Herramientas**: GitHub, Git, Docker
 
