@@ -1,11 +1,20 @@
 # ¡Hola! Soy Aitor 🚀🌙
 
-Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mejorar cada día para convertirte en senior. Se que aun me queda por aprender, por ello me esfuerzo en cada proyecto, tanto personal como laboral!
+Soy un desarrollador de Valencia con experiencia en proyectos reales de frontend, backend y bases de datos, tanto en entornos profesionales como personales. Aunque sigo creciendo cada día, ya he creado soluciones completas que funcionan en producción y proyectos que demuestran mis habilidades.
+
 ## 🌱 Tecnologías que uso:
-- **Frontend**: React, Next.js, Prestashop
-- **Backend**: PHP (Prestashop), Node.js (Express, MongoDB), SSR con Next.js (API Routes + Server Components) y Astro (endpoints y server-side rendering).
-- **Otros**: HTML, CSS, JavaScript
-- **Herramientas**: GitHub, Git, Docker
+
+Frontend: React, Next.js, Astro, Prestashop, Tailwind, CSS Modules, ES6, JS, TS, HTML.
+
+State & Data: TanStack Query, Zustand, NextAuth, manejo de tokens, Zod para validaciones
+
+Backend: Node.js (Express, Fastify), Python (Flask, FastAPI), PHP (Prestashop y backend propio), SSR con Next.js y Astro
+
+Bases de datos: MySQL, MariaDB, PostgreSQL, MongoDB, Supabase, Neon
+
+Datos / ML: Normalización y análisis con Pandas, pipelines, ETL, procesamiento e integraciones de ML
+
+Infra / Despliegues / DevTools: Docker, Git, GitHub, despliegue en Vercel, Railway, Supabase, servidores propios
 
 ## 🚀 Proyectos Destacados:
 ### 1. [Carpeta de Proyectos React](https://github.com/Joaiser/Proyectos-React)
@@ -18,7 +27,7 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
    - Un proyecto realizado durante el colegio para practicar conceptos fundamentales del diseño de programación.
 
 ### 4. **[Módulos de Prestashop (Legacy)](https://github.com/stars/Joaiser/lists/legacy-prestashop-8)**  
-Todos agrupados aquí → **https://github.com/stars/Joaiser/lists/legacy-prestashop-8**
+
 Trabajo real en entorno profesional durante 2024–2025. Incluye:
 
 APIs multi-cliente
@@ -31,13 +40,29 @@ Gestión avanzada de pedidos
 
 Módulos de stock, reglas, navegación, automatizaciones y más
 
-Todos agrupados aquí → https://github.com/stars/Joaiser/lists/legacy-prestashop-8
 
 ## 💼 Habilidades:
-- **Aprendizaje continuo**: Siempre estoy buscando mejorar y aprender nuevas tecnologías. Me encanta enfrentarme a retos y resolver problemas por mí mismo.
-- **Trabajo en equipo**: Aunque soy junior, disfruto colaborar con otros desarrolladores y compartir conocimientos. Estoy abierto a recibir y dar feedback constructivo.
-- **Adaptabilidad**: Me adapto rápidamente a nuevas herramientas y frameworks, y siempre trato de estar al día con las últimas tendencias tecnológicas.
-- **Comunicación**: Soy proactivo a la hora de comunicarme con mi equipo o cliente para asegurarme de que estamos alineados con los objetivos del proyecto.
+-Aprendizaje continuo: Siempre busco mejorar y aprender nuevas tecnologías. Me encanta enfrentarme a retos y resolver problemas.
+
+-Aprendo rápido: Me meto en una tecnología nueva y en pocos días ya estoy produciendo.
+
+-Mentalidad de salto: Quiero construir cosas grandes, no sólo cumplir tareas.
+
+-Trabajo en equipo: Disfruto colaborar con otros desarrolladores y compartir conocimientos, abierto a feedback.
+
+-Autonomía real: Investigo, resuelvo y documento. No me asusta romper algo si luego lo arreglo mejor.
+
+-Visión técnica: Arquitectura, datos, IA, pipelines, escalabilidad y soluciones reales.
+
+-Full-stack & Data Mindset: Integración de frontend, backend, bases de datos, pipelines, seguridad y validaciones.
+
+-Bases de datos y datos: Diseño, normalización, queries complejas y análisis con SQL y Python.
+
+-Adaptabilidad: Me adapto rápido a nuevas herramientas y frameworks, siempre al día con las tendencias.
+
+-Comunicación: Proactivo para asegurarme de que todos estamos alineados y las soluciones funcionan.
+
+-Despliegues y DevOps: Experiencia en despliegues a Vercel, Railway, Supabase y servidores propios, manejo de Docker y pipelines de CI/CD.
 
 ## 📢 Contacto
 - [LinkedIn](https://www.linkedin.com/in/aitor-vicent-2534392b7/)
