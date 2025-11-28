@@ -17,14 +17,21 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 ### 3. [Statics-works](https://github.com/Joaiser/statics-works)
    - Un proyecto realizado durante el colegio para practicar conceptos fundamentales del diseño de programación.
 
-### 4. [Auto-group-promotion](https://github.com/Joaiser/auto-group-promotion)
-   - Módulo para Prestashop que gestiona promociones automáticas por grupos de clientes.
+### 4. Módulos de Prestashop (Legacy)
 
-### 5. [PromotionPrestaFun](https://github.com/Joaiser/PromotionPrestaFun)
-   - Un módulo que complementa "Auto-group-promotion" para hacer promociones más personalizadas.
+Trabajo real en entorno profesional durante 2024–2025. Incluye:
 
-### 6. [Prestashop-product-reservations](https://github.com/Joaiser/prestashop-product-reservations)
-   - Módulo para Prestashop que permite gestionar las reservas de productos y notificar a los clientes.
+APIs multi-cliente
+
+Sistemas de reservas
+
+Trackers de sesión
+
+Gestión avanzada de pedidos
+
+Módulos de stock, reglas, navegación, automatizaciones y más
+
+Todos agrupados aquí → https://github.com/stars/Joaiser/lists/legacy-prestashop-8
 
 ## 💼 Habilidades:
 - **Aprendizaje continuo**: Siempre estoy buscando mejorar y aprender nuevas tecnologías. Me encanta enfrentarme a retos y resolver problemas por mí mismo.
