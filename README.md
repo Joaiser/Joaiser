@@ -17,8 +17,8 @@ Soy un desarrollador junior de Valencia que está entregado al aprendizaje y mej
 ### 3. [Statics-works](https://github.com/Joaiser/statics-works)
    - Un proyecto realizado durante el colegio para practicar conceptos fundamentales del diseño de programación.
 
-### 4. Módulos de Prestashop (Legacy)
-
+### 4. **[Módulos de Prestashop (Legacy)](https://github.com/stars/Joaiser/lists/legacy-prestashop-8)**  
+Todos agrupados aquí → **https://github.com/stars/Joaiser/lists/legacy-prestashop-8**
 Trabajo real en entorno profesional durante 2024–2025. Incluye:
 
 APIs multi-cliente
